@@ -1,0 +1,69 @@
+{
+	"dumper_engine": [
+		{
+			"EngineTemperature": 80.099999999999994,
+			"AmbientTemperature": 39,
+			"CoolantLevel": 119,
+			"BenchGradient": 12.5,
+			"Gear": 1,
+			"Speed": 9.0500000000000007,
+			"LubeOilLevel": 40,
+			"CloggingInRadiator": 0,
+			"ThermostatValveTemperature": 75.2,
+			"AltitudeOfOperation": 228,
+			"TimeStamp": 1
+		},
+		{
+			"EngineTemperature": 80.400000000000006,
+			"AmbientTemperature": 39.4,
+			"CoolantLevel": 119,
+			"BenchGradient": 12.3,
+			"Gear": 1,
+			"Speed": 8.57,
+			"LubeOilLevel": 42,
+			"CloggingInRadiator": 3,
+			"ThermostatValveTemperature": 78.2,
+			"AltitudeOfOperation": 264,
+			"TimeStamp": 2
+		},
+		{
+			"EngineTemperature": 80.7,
+			"AmbientTemperature": 39.799999999999997,
+			"CoolantLevel": 119,
+			"BenchGradient": 12.3,
+			"Gear": 1,
+			"Speed": 9.07,
+			"LubeOilLevel": 44,
+			"CloggingInRadiator": 3,
+			"ThermostatValveTemperature": 78.400000000000006,
+			"AltitudeOfOperation": 266,
+			"TimeStamp": 3
+		},
+		{
+			"EngineTemperature": 81.5,
+			"AmbientTemperature": 40,
+			"CoolantLevel": 118,
+			"BenchGradient": 12.2,
+			"Gear": 1,
+			"Speed": 8.2899999999999991,
+			"LubeOilLevel": 45,
+			"CloggingInRadiator": 6,
+			"ThermostatValveTemperature": 80.099999999999994,
+			"AltitudeOfOperation": 271,
+			"TimeStamp": 4
+		},
+		{
+			"EngineTemperature": 81.5,
+			"AmbientTemperature": 40.200000000000003,
+			"CoolantLevel": 119,
+			"BenchGradient": 12.1,
+			"Gear": 1,
+			"Speed": 8.6300000000000008,
+			"LubeOilLevel": 40,
+			"CloggingInRadiator": 6,
+			"ThermostatValveTemperature": 80.2,
+			"AltitudeOfOperation": 279,
+			"TimeStamp": 5
+		}
+	]
+}

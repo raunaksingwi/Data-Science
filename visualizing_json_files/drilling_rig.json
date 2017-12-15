@@ -1,0 +1,74 @@
+{
+	"drilling_rig": [
+		{
+			"Pressure": 20.100000000000001,
+			"AmbientTemperature": 44.7,
+			"ExternalCoolerCloggingLevel": 5,
+			"SafetyValvePressure": 22,
+			"Altitude": 422,
+			"RockDensity": 1.4,
+			"Humidity": 19,
+			"CompressorTemperature": 98.5,
+			"ISO_VG32OilViscosity": 34.9,
+			"SulphateAshContent": 0.0095,
+			"ProperBlasting": 4,
+			"TimeStamp": 1
+		},
+		{
+			"Pressure": 17.399999999999999,
+			"AmbientTemperature": 43.1,
+			"ExternalCoolerCloggingLevel": 6,
+			"SafetyValvePressure": 22.1,
+			"Altitude": 250,
+			"RockDensity": 1.2,
+			"Humidity": 30,
+			"CompressorTemperature": 91.3,
+			"ISO_VG32OilViscosity": 30.2,
+			"SulphateAshContent": 0.0100,
+			"ProperBlasting": 7,
+			"TimeStamp": 2
+		},
+		{
+			"Pressure": 23.4,
+			"AmbientTemperature": 37.6,
+			"ExternalCoolerCloggingLevel": 7,
+			"SafetyValvePressure": 22.9,
+			"Altitude": 244,
+			"RockDensity": 2.1,
+			"Humidity": 59,
+			"CompressorTemperature": 93.3,
+			"ISO_VG32OilViscosity": 35,
+			"SulphateAshContent": 0.0091,
+			"ProperBlasting": 7,
+			"TimeStamp": 3
+		},
+		{
+			"Pressure": 18,
+			"AmbientTemperature": 39.4,
+			"ExternalCoolerCloggingLevel": 9,
+			"SafetyValvePressure": 22.3,
+			"Altitude": 293,
+			"RockDensity": 2.7,
+			"Humidity": 29,
+			"CompressorTemperature": 102.1,
+			"ISO_VG32OilViscosity": 31.9,
+			"SulphateAshContent": 0.0095,
+			"ProperBlasting": 8,
+			"TimeStamp": 4
+		},
+		{
+			"Pressure": 19.5,
+			"AmbientTemperature": 38.700000000000003,
+			"ExternalCoolerCloggingLevel": 5,
+			"SafetyValvePressure": 22.3,
+			"Altitude": 390,
+			"RockDensity": 1.5,
+			"Humidity": 18,
+			"CompressorTemperature": 102.8,
+			"ISO_VG32OilViscosity": 30.2,
+			"SulphateAshContent": 0.0098,
+			"ProperBlasting": 4,
+			"TimeStamp": 5
+		}
+	]
+}

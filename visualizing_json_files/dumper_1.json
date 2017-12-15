@@ -1,0 +1,69 @@
+{
+	"dumper_transmission": [
+		{
+			"TransmissionTemperature": 90.7,
+			"DumperLoad": 20,
+			"OilLevel": 36,
+			"LowPressure": 16.100000000000001,
+			"Gear": 1,
+			"Speed": 8.93,
+			"AmbientTemperature": 35.200000000000003,
+			"BenchGradient": 10,
+			"TorqueConvertorOilTemperature": 70.3,
+			"TorqueConvertorInletPressure": 7,
+			"TimeStamp": 1
+		},
+		{
+			"TransmissionTemperature": 92.3,
+			"DumperLoad": 21,
+			"OilLevel": 36,
+			"LowPressure": 16.100000000000001,
+			"Gear": 1,
+			"Speed": 8.41,
+			"AmbientTemperature": 35.4,
+			"BenchGradient": 10.199999999999999,
+			"TorqueConvertorOilTemperature": 70.599999999999994,
+			"TorqueConvertorInletPressure": 7.1,
+			"TimeStamp": 2
+		},
+		{
+			"TransmissionTemperature": 92.4,
+			"DumperLoad": 21,
+			"OilLevel": 35,
+			"LowPressure": 16.3,
+			"Gear": 1,
+			"Speed": 8.8000000000000007,
+			"AmbientTemperature": 36.1,
+			"BenchGradient": 10.4,
+			"TorqueConvertorOilTemperature": 71,
+			"TorqueConvertorInletPressure": 7.3,
+			"TimeStamp": 3
+		},
+		{
+			"TransmissionTemperature": 94.7,
+			"DumperLoad": 21,
+			"OilLevel": 35,
+			"LowPressure": 16.5,
+			"Gear": 1,
+			"Speed": 8.39,
+			"AmbientTemperature": 36.5,
+			"BenchGradient": 10.6,
+			"TorqueConvertorOilTemperature": 71.599999999999994,
+			"TorqueConvertorInletPressure": 7.3,
+			"TimeStamp": 4
+		},
+		{
+			"TransmissionTemperature": 95.5,
+			"DumperLoad": 21,
+			"OilLevel": 34,
+			"LowPressure": 16.8,
+			"Gear": 1,
+			"Speed": 9.1199999999999992,
+			"AmbientTemperature": 36.700000000000003,
+			"BenchGradient": 10.7,
+			"TorqueConvertorOilTemperature": 71.900000000000006,
+			"TorqueConvertorInletPressure": 7.3,
+			"TimeStamp": 5
+		}
+	]
+}
